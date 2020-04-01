@@ -1,6 +1,6 @@
 # ProjectX
 
-[![CI Status](https://img.shields.io/travis/marko.nazmy@gmail.com/ProjectX.svg?style=flat)](https://travis-ci.org/marko.nazmy@gmail.com/ProjectX)
+[![CI Status](https://img.shields.io/travis/marko.nazmy@gmail.com/ProjectX.svg?style=flat)](https://travis-ci.org/markoNazmy/ProjectX)
 [![Version](https://img.shields.io/cocoapods/v/ProjectX.svg?style=flat)](https://cocoapods.org/pods/ProjectX)
 [![License](https://img.shields.io/cocoapods/l/ProjectX.svg?style=flat)](https://cocoapods.org/pods/ProjectX)
 [![Platform](https://img.shields.io/cocoapods/p/ProjectX.svg?style=flat)](https://cocoapods.org/pods/ProjectX)
@@ -22,7 +22,7 @@ pod 'ProjectX'
 
 ## Author
 
-marko.nazmy@gmail.com, marko.armiya@itworx.com
+marko.nazmy@gmail.com
 
 ## License
 
