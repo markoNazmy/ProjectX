@@ -1,0 +1,22 @@
+{
+  "name": "ProjectX",
+  "version": "0.1.0",
+  "summary": "A short description of ProjectX.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/marko.nazmy@gmail.com/ProjectX",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "marko.nazmy@gmail.com": "markoNazmy"
+  },
+  "source": {
+    "git": "https://github.com/marko.nazmy@gmail.com/ProjectX.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "ProjectX/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module ProjectX {
+  umbrella header "ProjectX-umbrella.h"
+
+  export *
+  module * { export * }
+}

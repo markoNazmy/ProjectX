@@ -1,0 +1,16 @@
+PODS:
+  - ProjectX (0.1.0)
+
+DEPENDENCIES:
+  - ProjectX (from `../`)
+
+EXTERNAL SOURCES:
+  ProjectX:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ProjectX: 02617f8a16102500849102597c65cc4b89098750
+
+PODFILE CHECKSUM: b3c85c1d3f4f3cc1d9c57c35ff6a7ca1d36b9388
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,6 @@
+framework module Pods_ProjectX_Example {
+  umbrella header "Pods-ProjectX_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

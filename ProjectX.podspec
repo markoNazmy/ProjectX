@@ -24,11 +24,11 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/marko.nazmy@gmail.com/ProjectX'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'marko.nazmy@gmail.com' => 'marko.armiya@itworx.com' }
+  s.author           = { 'markoNazmy' => 'marko.nazmy@gmail.com' }
   s.source           = { :git => 'https://github.com/marko.nazmy@gmail.com/ProjectX.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '13.0'
 
   s.source_files = 'ProjectX/Classes/**/*'
   
