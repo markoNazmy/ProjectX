@@ -1,5 +1,4 @@
 import XCTest
-import ProjectX
 
 class Tests: XCTestCase {
     
